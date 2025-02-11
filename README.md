@@ -1,7 +1,8 @@
 # WeatherAppAnders
 Check your local weather, or any desired destination. It's a quick, simple weather app. The features include the basics, including current temperature, humidity, UV, and feels-like temperature.
 # How to use
-- Type in a location
+- Type in a location and search
+- A list view will open up with the searched location
 - Tap on it, and it will open up to a full view with more information
 - Last searched location will be save for next time when the application is opened
 # Screenshots
